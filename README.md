@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**MarcoPannocchia/MarcoPannocchia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 IT professional working toward becoming a **Cyber Analyst**.
+Passionate about information security, running a Proxmox-based home lab
+covering Blue Team, Red Team, malware analysis, and networking.
 
-Here are some ideas to get you started:
+Building my path across cybersecurity, electronics engineering,
+and programming — always with a focus on real-world application.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Python · C++ · Bash  
+**Environment:** Linux · Proxmox · VS Code  
+**Current focus:** SOC · Threat analysis · OSINT  
+**Active projects:** CybeDev · Home Lab  
+
+📍 Italy · 🎯 Goal: Cyber Analyst
