@@ -12,4 +12,6 @@ and programming — always with a focus on real-world application.
 **Current focus:** SOC · Threat analysis · OSINT  
 **Active projects:** CybeDev · Home Lab  
 
+Cybersecurity Student • Software Developer • Creator of TheWizard • Open-source projects
+
 📍 Italy · 🎯 Goal: Cyber Analyst
